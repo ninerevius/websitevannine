@@ -1,0 +1,107 @@
+body {
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+    border-radius: 1em;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    text-align: center;
+}
+
+#Pics_of_travels {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+#Pics_of_travels img {
+    width: 11em;
+    height: 15em;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
+
+a {
+    color: black;
+    padding: 10px 30px;
+    text-decoration-line: none;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:visited {
+    color: grey;
+}
+
+article {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+form {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#losgig {
+    height: 15em;
+}
+
+#eiffelnight {
+    height: 15em;
+}
+
+#calarom {
+    height: 15em;
+}
+
+#pizza {
+    height: 15em;
+}
